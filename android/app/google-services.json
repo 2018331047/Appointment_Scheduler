@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964940044782",
+    "project_id": "appointments-8d0e6",
+    "storage_bucket": "appointments-8d0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964940044782:android:bfc5e7110ebf0a009dd6ff",
+        "android_client_info": {
+          "package_name": "com.example.appointment_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964940044782-8qf51qi4phnspip9plrie8i87no1a8uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4bYFenlHApIlogzuZR7M8FakN-HacEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964940044782-8qf51qi4phnspip9plrie8i87no1a8uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
